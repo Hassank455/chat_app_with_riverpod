@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "148556061284",
+    "firebase_url": "https://edmt-chat-app-default-rtdb.firebaseio.com",
+    "project_id": "edmt-chat-app",
+    "storage_bucket": "edmt-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148556061284:android:66b5eaef5c54e6e2d5dd71",
+        "android_client_info": {
+          "package_name": "com.example.edmt_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148556061284-8fn3s60llblfereq6a9shhsbrqd07fb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edmt_chat_app",
+            "certificate_hash": "e400bec1b099039965a0db0a31be6f2081a73aa5"
+          }
+        },
+        {
+          "client_id": "148556061284-bh34g5vafmeo838h58s7o1jej3eruaoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfS7HSY1OQm1blpYrd2Rz8jDGHYMjikM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148556061284-bh34g5vafmeo838h58s7o1jej3eruaoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
